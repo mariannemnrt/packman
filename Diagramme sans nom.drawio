@@ -1,9 +1,66 @@
-<mxfile host="app.diagrams.net" modified="2024-04-01T09:48:13.542Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0" version="24.2.1" etag="hDrn1XJiWvjibQJtRZyM" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-01T09:58:33.360Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="9usOQ99plQiGea-Xu_OO" version="24.2.1" type="github">
   <diagram name="Page-1" id="PoInFdAKglta9lbRyR0M">
-    <mxGraphModel>
+    <mxGraphModel dx="2022" dy="622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="6H3mKWNk-GLAx2lw7qaX-1" value="&lt;div&gt;Site de réservation de billets pour les JO&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6H3mKWNk-GLAx2lw7qaX-2" value="choisir un billet " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6H3mKWNk-GLAx2lw7qaX-3" value="profil utilisateur " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6H3mKWNk-GLAx2lw7qaX-4" value="contacter un administrateur " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6H3mKWNk-GLAx2lw7qaX-5" value="payer " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6H3mKWNk-GLAx2lw7qaX-6" value="choisir une épreuve " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6H3mKWNk-GLAx2lw7qaX-7" value="choisir une date " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6H3mKWNk-GLAx2lw7qaX-8" value="choisir une offre " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6H3mKWNk-GLAx2lw7qaX-9" value="créer un compte " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6H3mKWNk-GLAx2lw7qaX-10" value="accéder à son compte " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6H3mKWNk-GLAx2lw7qaX-11" value="modifier le compte " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6H3mKWNk-GLAx2lw7qaX-12" value="supprimer le compte " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6H3mKWNk-GLAx2lw7qaX-13" value="envoyer un mail " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6H3mKWNk-GLAx2lw7qaX-14" value="générer clé paiement " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6H3mKWNk-GLAx2lw7qaX-15" value="générer clé compte " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6H3mKWNk-GLAx2lw7qaX-16" value="générer billet " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6H3mKWNk-GLAx2lw7qaX-17" value="administrer " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6H3mKWNk-GLAx2lw7qaX-18" value="créer épreuve " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6H3mKWNk-GLAx2lw7qaX-19" value="visualiser clé utilisateur" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="890" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
